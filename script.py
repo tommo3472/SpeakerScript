@@ -27,7 +27,7 @@ def main():
     move_to_click('soundIcon.png', 'right')
     move_to_click('openSound.png', 'left')
     move_to_click('soundControlPanel.png', 'left')
-    move_to_click('speakerOption.png', 'left')
+    move_to_click('speakerOption.png', 'right')
     move_to_click('properties.png', 'left')
     move_to_click('enchancements.png', 'left')
     click_enchancement('loudnessClicked.png')
